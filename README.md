@@ -325,3 +325,6 @@ Melakuakn ping dari GranzChannel ke AppetitRegion
 
 ## Pembagian IP
 </br><img src="img/ip_cidr.png?raw=true" alt="Alt text" title="pp" width="700">
+
+## Testing
+</br><img src="img/test_cpt.jpeg?raw=true" alt="Alt text" title="pp" width="700">

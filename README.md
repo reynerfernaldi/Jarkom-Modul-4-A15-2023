@@ -12,14 +12,14 @@
 
 ## GNS VLSM
 ### Topologi GNS VLSM
-</br><img src="img/gns.png?raw=true" alt="Alt text" title="1a" width="500">
+</br><img src="img/gns.png?raw=true" alt="Alt text" title="1a" width="700">
 
 ### Rute
 Rute yang kami gunakan adalah
 </br><img src="img/rute.png?raw=true" alt="Alt text" title="1a" width="500">
 
 ### Tree
-</br><img src="img/tree_vlsm.jpeg?raw=true" alt="Alt text" title="1a" width="500">
+</br><img src="img/tree_vlsm.jpeg?raw=true" alt="Alt text" title="1a" width="700">
 
 ### Pembagian IP
 </br><img src="img/ip_vlsm.png?raw=true" alt="Alt text" title="1a" width="500">
@@ -276,48 +276,52 @@ Rute yang kami gunakan adalah
         netmask 255.255.252.0
     ```
 
+### Testing
+Melakuakn ping dari GranzChannel ke AppetitRegion
+</br><img src="img/test_gns.png?raw=true" alt="Alt text" title="1a" width="500">
+
 
 ## Topologi CPT CIDR
-</br><img src="img/gns.png?raw=true" alt="Alt text" title="1a" width="500">
+</br><img src="img/gns.png?raw=true" alt="Alt text" title="1a" width="700">
 
 ## Penggabungan 1
 </br><img src="img/P1T.png?raw=true" alt="Alt text" title="1a" width="500">
-</br><img src="img/P1G.jpeg?raw=true" alt="Alt text" title="1a" width="500">
+</br><img src="img/P1G.jpeg?raw=true" alt="Alt text" title="1a" width="700">
 
 ## Penggabungan 2
 </br><img src="img/P2T.png?raw=true" alt="Alt text" title="pp" width="500">
-</br><img src="img/P2G.jpeg?raw=true" alt="Alt text" title="pp" width="500">
+</br><img src="img/P2G.jpeg?raw=true" alt="Alt text" title="pp" width="700">
 
 ## Penggabungan 3
 </br><img src="img/P3T.png?raw=true" alt="Alt text" title="pp" width="500">
-</br><img src="img/P3G.jpeg?raw=true" alt="Alt text" title="pp" width="500">
+</br><img src="img/P3G.jpeg?raw=true" alt="Alt text" title="pp" width="700">
 
 ## Penggabungan 4
 </br><img src="img/P4T.png?raw=true" alt="Alt text" title="pp" width="500">
-</br><img src="img/P4G.jpeg?raw=true" alt="Alt text" title="pp" width="500">
+</br><img src="img/P4G.jpeg?raw=true" alt="Alt text" title="pp" width="700">
 
 ## Penggabungan 5
 </br><img src="img/P5T.png?raw=true" alt="Alt text" title="pp" width="500">
-</br><img src="img/P5G.jpeg?raw=true" alt="Alt text" title="pp" width="500">
+</br><img src="img/P5G.jpeg?raw=true" alt="Alt text" title="pp" width="700">
 
 ## Penggabungan 6
 </br><img src="img/P6T.png?raw=true" alt="Alt text" title="pp" width="500">
-</br><img src="img/P6G.jpeg?raw=true" alt="Alt text" title="pp" width="500">
+</br><img src="img/P6G.jpeg?raw=true" alt="Alt text" title="pp" width="700">
 
 ## Penggabungan 7
 </br><img src="img/P7T.png?raw=true" alt="Alt text" title="pp" width="500">
-</br><img src="img/P7G.jpeg?raw=true" alt="Alt text" title="pp" width="500">
+</br><img src="img/P7G.jpeg?raw=true" alt="Alt text" title="pp" width="700">
 
 ## Penggabungan 8
 </br><img src="img/P8T.png?raw=true" alt="Alt text" title="pp" width="500">
-</br><img src="img/P8G.jpeg?raw=true" alt="Alt text" title="pp" width="500">
+</br><img src="img/P8G.jpeg?raw=true" alt="Alt text" title="pp" width="700">
 
 ## Penggabungan 9
 </br><img src="img/P9T.png?raw=true" alt="Alt text" title="pp" width="500">
-</br><img src="img/P9G.jpeg?raw=true" alt="Alt text" title="pp" width="500">
+</br><img src="img/P9G.jpeg?raw=true" alt="Alt text" title="pp" width="700">
 
 ## Tree
-</br><img src="img/tree_cidr.jpeg?raw=true" alt="Alt text" title="pp" width="500">
+</br><img src="img/tree_cidr.jpeg?raw=true" alt="Alt text" title="pp" width="700">
 
 ## Pembagian IP
-</br><img src="img/ip_cidr.png?raw=true" alt="Alt text" title="pp" width="500">
+</br><img src="img/ip_cidr.png?raw=true" alt="Alt text" title="pp" width="700">

@@ -282,7 +282,7 @@ Melakuakn ping dari GranzChannel ke AppetitRegion
 
 
 ## Topologi CPT CIDR
-</br><img src="img/gns.png?raw=true" alt="Alt text" title="1a" width="700">
+</br><img src="img/cpt.png?raw=true" alt="Alt text" title="1a" width="700">
 
 ## Penggabungan 1
 </br><img src="img/P1T.png?raw=true" alt="Alt text" title="1a" width="500">

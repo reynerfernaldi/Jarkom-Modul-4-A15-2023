@@ -16,7 +16,7 @@
 
 ### Rute
 Rute yang kami gunakan adalah
-</br><img src="img/rute.png?raw=true" alt="Alt text" title="1a" width="500">
+</br><img src="img/rute1.png?raw=true" alt="Alt text" title="1a" width="500">
 
 ### Tree
 </br><img src="img/tree_vlsm.jpeg?raw=true" alt="Alt text" title="1a" width="700">
